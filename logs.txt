@@ -1,0 +1,35 @@
+commit 7f3dc01c3e4e7f3e1dab407edbee5d3cebb548dc
+Author: Andrej Petroski <139067924+andrejpetroski@users.noreply.github.com>
+Date:   Thu Apr 4 14:41:36 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 756eba2881f90b5cdf23bc3648445489f5407106
+Author: Andrej Petroski <139067924+andrejpetroski@users.noreply.github.com>
+Date:   Thu Apr 4 14:39:06 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit e2dae8abcb3e5a54e09078889a47422da802eeb4
+Author: Andrej Petroski <139067924+andrejpetroski@users.noreply.github.com>
+Date:   Thu Apr 4 14:40:11 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit f61a9e0fb62c54c2406c3a262b73070cdfc94b40
+Author: Andrej Petroski <139067924+andrejpetroski@users.noreply.github.com>
+Date:   Thu Apr 4 14:38:12 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 8281396c0d72446307773097b78989c6797899d2
+Author: Andrej Petroski <139067924+andrejpetroski@users.noreply.github.com>
+Date:   Thu Apr 4 14:35:32 2024 +0200
+
+    Add starter code
+
+commit 0f707fc7980dc1f0fd10e78baa7cfc9ef0d1dde3
+Author: Andrej Petroski <139067924+andrejpetroski@users.noreply.github.com>
+Date:   Thu Apr 4 14:34:03 2024 +0200
+
+    Initial commit
